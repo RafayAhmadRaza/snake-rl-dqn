@@ -3,7 +3,11 @@
 A Snake agent trained with Deep Q-Learning in PyTorch. The environment and the
 network are written from scratch — no RL library.
 
-[Watch the demo (40s, score 37)](https://github.com/RafayAhmadRaza/snake-rl-dqn/raw/main/media/snake-demo.mp4)
+[![Snake RL agent playing](media/snake-demo.gif)](media/snake-demo.mp4)
+
+*Short loop above. The full 40-second recording is in
+[`media/snake-demo.mp4`](media/snake-demo.mp4) — GitHub serves repo MP4s as a
+download rather than streaming them, which is why the GIF is embedded here.*
 
 ## How it works
 
